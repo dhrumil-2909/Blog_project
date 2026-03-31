@@ -6,8 +6,8 @@ app.set("view engine", "ejs");
 app.use(express.urlencoded({ extended: false }));
 // Student data 
 let student = [
-  { id: 1, name: "Aakash" },
-  { id: 2, name: "Vraj" }
+  { id: 1, name: "kunj" },
+  { id: 2, name: "alice" }
 ];
 
 // READ 
